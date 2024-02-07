@@ -2,8 +2,8 @@ import type { GatsbyConfig } from "gatsby";
 
 const config: GatsbyConfig = {
   siteMetadata: {
-    title: `justNew`,
-    siteUrl: `https://www.yourdomain.tld`
+    title: `Gatsby playground`,
+    siteUrl: `https://gatsby-playgournd.localhost`
   },
   // More easily incorporate content into your pages through automatic TypeScript type generation and better GraphQL IntelliSense.
   // If you use VSCode you can also use the GraphQL plugin
